@@ -1,6 +1,6 @@
 ### Hi there, I'm Eri! 👋
 
-<img src="https://github.com/erifylo/erifylo/blob/main/ErifyliEvangelouAvatar.png?raw=true" width="469" height="144">
+<img src="https://github.com/erifylo/erifylo/blob/main/ErifyliEvangelouAvatar.png?raw=true">
 
 I am a Front-end developer with a background in International Trade and Logistics. I am from Greece but I am living in Barcelona for the last two years. I enjoy working in teams and in multicultural environments. I feel comfortable working in several languages and have more than 6 years of experience working and volunteering in international environments :)
 
