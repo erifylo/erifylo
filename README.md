@@ -9,6 +9,9 @@ I enjoy working in teams and in multicultural environments. I feel comfortable w
  💻 Technologies: Javascript | ES6 | HTML5 | CSS3 | MongoDB | Bootstrap | React | Node.js | Express 
 
  📫 Feel free to reach out at erif.evangelou@gmail.com! 
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erifylo)](https://github.com/erifylo/github-readme-stats)
+
 
 
 <!--
