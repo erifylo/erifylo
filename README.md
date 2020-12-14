@@ -1,8 +1,14 @@
 ### Hi there, I'm Eri! 👋
 
+<img src="https://github.com/erifylo/erifylo/blob/main/ErifyliEvangelouAvatar.png?raw=true">
+
+I am a Front-end developer with a background in International Trade and Logistics. I am from Greece but I am living in Barcelona for the last two years. I enjoy working in teams and in multicultural environments. I feel comfortable working in several languages and have more than 6 years of experience working and volunteering in international environments :)
+
+ 📫 Feel free to reach out at erif.evangelou@gmail.com! 
+
+
 <!--
 **erifylo/erifylo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
