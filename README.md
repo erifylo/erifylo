@@ -4,9 +4,9 @@
 
 I am a Front-end developer with a background in International Trade and Logistics. I am from Greece but I am living in Barcelona for the last two years. <br>
  I have always been interested in the tech industry and this is one of the reasons I decided to enroll in Ironhack Web Development Bootcamp. I recently graduated from it and I am ready to throw myself into a world of constant challenges, growth, and learning new things! <br>
-I enjoy working in teams and in multicultural environments. I feel comfortable working in several languages and have more than 6 years of experience working and volunteering in international environments :)
+I enjoy working in teams and in multicultural environments. I feel comfortable working in several languages and have more than 6 years of experience working and volunteering in international environments :) <br> 
 
-<br> Technologies: Javascript | ES6 | HTML5 | CSS3 | MongoDB | Bootstrap | React | Node.js | Express 💻
+ 💻 Technologies: Javascript | ES6 | HTML5 | CSS3 | MongoDB | Bootstrap | React | Node.js | Express 
 
  📫 Feel free to reach out at erif.evangelou@gmail.com! 
 
