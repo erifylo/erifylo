@@ -7,10 +7,14 @@ I am a Front-end developer with a background in International Trade and Logistic
 I enjoy working in teams and in multicultural environments. I feel comfortable working in several languages and have more than 6 years of experience working and volunteering in international environments :) <br> 
 
  💻 Technologies: Javascript | ES6 | HTML5 | CSS3 | MongoDB | Bootstrap | React | Node.js | Express 
+ 
+ <br>
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erifylo)](https://github.com/erifylo/github-readme-stats)
 
  📫 Feel free to reach out at erif.evangelou@gmail.com! 
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erifylo)](https://github.com/erifylo/github-readme-stats)
+
 
 
 
